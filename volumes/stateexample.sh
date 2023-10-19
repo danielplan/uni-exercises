@@ -9,4 +9,4 @@ echo "Enter a message:"
 
 read input
 
-echo $input >> state.txt
+echo $input >> $FILE
